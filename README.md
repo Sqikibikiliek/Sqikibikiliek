@@ -38,4 +38,4 @@
     </a>
 </p>
 
-<h4 align="center">Currently I am working on program that will help to plan and maintain diet. At the moment repository is set to private.</h4>
+<h4 align="center">Currently I am working on program that will help to plan and maintain diet. At the moment its repository is set to private.</h4>
